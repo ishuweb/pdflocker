@@ -1,4 +1,5 @@
 This is Pdf File Locker Software.
+This software is written in Python Language using many libraries.
 You can lock your file and set a password on it.
 
 STEP 1 : It is not binary package, hence you don't need to install the software
